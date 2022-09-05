@@ -27,3 +27,8 @@ Os principais tópicos são:
 * e muito mais...
 
 O acesso ao org do GitHub é feito no grupo de alunos da sua turma. Você encontra todos os dados em https://cloudnative.net.br/alunos
+
+# Quero me tornar aluno
+Fique de olho nas janelas de inscrição em https://cloudnative.net.br/ e no https://gaGO.io, inscreva-se na newsletter e/ou na lista de espera.
+
+As inscrições acontecem de tempos em tempos.
