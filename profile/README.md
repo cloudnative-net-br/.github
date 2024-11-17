@@ -8,6 +8,7 @@ Por Cloud Native entendemos 4 pilares fundamentais:
 * Microsserviços - e Aplicações distribuídas em geral
 * Containers - Hospedados como containers
 * DevOps - Utilizamos e adotamos DevOps como filosofia
+* Observabilidade - Encaramos observabilidade tão importante quanto o próprio código que escrevemos.
 * Continuous Delivery - É como pensamos em implantar nossos projetos.
 
 E para completar vemos tudo isso em uma abordagem **100% Cloud Agnóstic**, que é para você não ficar preso a Cloud Provider algum e ainda poder rodar tudo no seu notebook ou mesmo em uma VPS se quiser, de forma transparente.
